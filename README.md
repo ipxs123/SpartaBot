@@ -1,2 +1,4 @@
-# SpartaBot [1.0]![Untitled](https://user-images.githubusercontent.com/78660885/116436252-1115b100-a801-11eb-9d65-13b694c8fbf2.png)
-(https://github.com/ipxs123/SpartaBot/tree/dev/CHANGELOG.md)
+# SpartaBot [1.0]![Untitled]
+(https://github.com/ipxs123/SpartaBot/blob/main/README.md)
+![Spartan_Mascot_Logo_gif](https://user-images.githubusercontent.com/78660885/116436556-5cc85a80-a801-11eb-86f8-f14e39d1bb25.gif)
+
